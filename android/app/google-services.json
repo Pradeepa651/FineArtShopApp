@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "525871661809",
+    "firebase_url": "https://fineartshop-56190-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fineartshop-56190",
+    "storage_bucket": "fineartshop-56190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525871661809:android:54c0d35d5637ef590b1f50",
+        "android_client_info": {
+          "package_name": "com.example.fine_art_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525871661809-n3t1lde01cjlqsa25c7jhmm8ks80ee8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fine_art_shop",
+            "certificate_hash": "f5a0516dceb33839272376e8b2de4d373a96cb7f"
+          }
+        },
+        {
+          "client_id": "525871661809-odvbc6jrtfah7j728nus19i2m2odvdgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpLK3aQdp9X6DvDjdcvAeN8prdjcx6TDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525871661809-9rqs89nvflusa304sgm5mgd626em66pu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525871661809-hprvk7suh0j0u9j347lsde3qj7jlbfcm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fineArtShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
